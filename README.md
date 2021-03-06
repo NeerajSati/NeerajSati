@@ -4,7 +4,7 @@ Here is my brief introduction:
 
 - 🔭 I’m currently working on expertising DS & Algo.
 - 🌱 I’m currently active in Competitive Programming .
-- 👯 I’m looking to collaborate on Projects in C++.
+- 👯 I’m looking to collaborate on Front end Projects.
 - 🤔 I’m looking forward for Open Source Contributions.
 - 💬 Ask me about HTML,CSS,JavaScript and C++.
 - 📫 How to reach me:  [Email](neeraj.sati123@gmail.com), [LinkedIn](https://www.linkedin.com/in/neeraj-sati-898976140/), [Instagram](https://www.instagram.com/neerajsati17/).
