@@ -2,11 +2,11 @@
 
 Here is my brief introduction:
 
-- 🔭 I’m currently working on expertising DS & Algo.
+- 🔭 I’m currently practicing DS & Algo.
 - 🌱 I’m currently active in Competitive Programming .
-- 👯 I’m looking to collaborate on Front end Projects.
+- 👯 I’m looking to collaborate on Front end Projects ( Including React Js, Next.js ).
 - 🤔 I’m looking forward for Open Source Contributions.
-- 💬 Ask me about HTML,CSS,JavaScript and C++.
+- 💬 Ask me about HTML,CSS,JavaScript,React,Next.js and C++.
 - 📫 How to reach me:  [Email](neeraj.sati123@gmail.com), [LinkedIn](https://www.linkedin.com/in/neeraj-sati-898976140/), [Instagram](https://www.instagram.com/neerajsati17/).
 - ⚡ Useful Skills: [Video Editing and graphic designing](https://www.instagram.com/cutting_edge_arts/).
 
