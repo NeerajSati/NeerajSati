@@ -19,4 +19,5 @@ Here is my brief introduction:
 
 - My Github Stats: <br/><br/>
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=NeerajSati&&show_icons=true&title_color=ffffff&icon_color=f6ff00&text_color=fcd7d7&bg_color=8a0000)<br/><br/>
+
 ![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajSati&layout=compact)
