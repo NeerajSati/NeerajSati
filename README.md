@@ -24,8 +24,8 @@ Here is my brief introduction:
  </p>
 <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeerajSati&&show_icons=true&title_color=ffffff&icon_color=f6ff00&text_color=fcd7d7&bg_color=8a0000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeerajSati&show_icons=true&theme=tokyonight" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajSati&exclude_repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajSati&exclude_repo=github-readme-stats&theme=tokyonight" />
  </p>
