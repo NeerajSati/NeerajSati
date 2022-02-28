@@ -1,4 +1,9 @@
-### Hello, I am Neeraj Sati 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%23ACFF90&duration=5000&center=true&width=500&lines=Hi+there%2C+This+is+Neeraj+Sati+%F0%9F%99%82;CSE+Undergrad'23+%F0%9F%93%96;Web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB"/>
+<img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
+ </p>
+
+
 <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/giffy.gif?raw=true" width="200px" align="right"/> 
 Here is my brief introduction:
 
