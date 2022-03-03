@@ -22,10 +22,15 @@ Here is my brief introduction:
 - 🎮 My Social Media Handles: <br/>
 
    [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/NeerajSati/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:neeraj.sati123@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neeraj-sati/) [<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />](https://www.codechef.com/users/neeraj_sati) [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/neeraj_sati) [<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://auth.geeksforgeeks.org/user/neerajsati) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/neerajsati17)
-
+   
 <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
 <p align="center">
-  <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Code.gif?raw=true" width="100%"/>
+<img src="https://github.com/NeerajSati/NeerajSati/blob/output/github-contribution-grid-snake.svg"  width="100%"/>
+ </p>
+<img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
+
+<p align="center">
+  <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Code.gif?raw=true" width="80%"/>
  </p>
 <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
 <p align="center">
