@@ -25,11 +25,6 @@ Here is my brief introduction:
    
 <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
 <p align="center">
-<img src="https://github.com/NeerajSati/NeerajSati/blob/output/github-contribution-grid-snake.svg"  width="100%"/>
- </p>
-<img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
-
-<p align="center">
   <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Code.gif?raw=true" width="80%"/>
  </p>
 <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
