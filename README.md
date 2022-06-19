@@ -4,7 +4,7 @@
  </p>
 
 
-<img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/giffy.gif?raw=true" width="200px" align="right"/> 
+<img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/groothello.gif?raw=true" width="200px" align="right"/> 
 Here is my brief introduction:
 
 - 🔭 I’m currently practicing DS & Algo.
