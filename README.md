@@ -1,10 +1,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%23ACFF90&duration=5000&center=true&width=500&lines=Hi+there%2C+This+is+Neeraj+Sati+%F0%9F%99%82;CSE+Undergrad'23+%F0%9F%93%96;Web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB"/>
-<img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
  </p>
 
 
-<img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/groothello.gif?raw=true" width="200px" align="right"/> 
 Here is my brief introduction:
 
 - 🔭 I’m currently practicing DS & Algo.
@@ -23,11 +21,9 @@ Here is my brief introduction:
 
    [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/NeerajSati/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:neeraj.sati123@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neeraj-sati/) [<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />](https://www.codechef.com/users/neeraj_sati) [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/neeraj_sati) [<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://auth.geeksforgeeks.org/user/neerajsati) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/neerajsati17)
    
-<img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
 <p align="center">
   <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Code.gif?raw=true" width="80%"/>
  </p>
-<img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Line.png?raw=true" width="120%" height="40px"/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeerajSati&show_icons=true&theme=tokyonight" />
   <br/>
