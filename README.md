@@ -10,7 +10,7 @@ Here is my brief introduction:
 - 👯 I’m looking to collaborate on Front end Projects.
 - 🤔 I’m looking forward for Open Source Contributions.
 - 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, ExpressJS and C++.
-- 📫 My resume: [Drive](https://drive.google.com/file/d/1aSjYPD8oSy45uo4tGrfuO3oWktUSVXzt/view).
+- 📫 My resume: [Drive](https://drive.google.com/file/d/13l7-Eut6bzuw5NVwsLl3nAxhrt3C7thG/view).
 - ⚡ Useful Skills: [Video Editing and graphic designing](https://www.instagram.com/cutting_edge_arts/).
 
 
