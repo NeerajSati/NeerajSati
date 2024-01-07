@@ -5,8 +5,8 @@
 
 Here is my brief introduction:
 
-- 🔭 I’m currently practicing DS & Algo.
-- 🌱 I’m currently active in Competitive Programming.
+- 🔭 I’m currently working as Frontend Engineer at Uniacco.
+- 🌱 I have experience of more than 1 year working as Full Stack Developer.
 - 👯 I’m looking to collaborate on Front end Projects.
 - 🤔 I’m looking forward for Open Source Contributions.
 - 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, ExpressJS and C++.
