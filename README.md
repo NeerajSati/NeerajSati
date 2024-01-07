@@ -24,9 +24,9 @@ Here is my brief introduction:
 <p align="center">
   <img src="https://github.com/NeerajSati/NeerajSati/blob/main/images/Code.gif?raw=true" width="80%"/>
  </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeerajSati&show_icons=true&theme=tokyonight" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajSati&exclude_repo=github-readme-stats&theme=tokyonight" />
- </p>
+ </p> -->
